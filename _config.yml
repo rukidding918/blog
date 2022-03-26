@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: 취미로 파이썬을 공부하며 정리해보는 블로그
+description: 개인적인 관심사인 투자를 위해 파이썬을 이용하고 있습니다. 파이썬을 공부하다 보니 그 자체로도 재미가 있네요.
 github_username: rukidding918
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
